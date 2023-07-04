@@ -1,0 +1,9 @@
+- README.md
+- index.html
+- styles.css
+- scripts.js
+- blog/
+  - post1.md
+  - post2.md
+  - post3.md
+  - ...
